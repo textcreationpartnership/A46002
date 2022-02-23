@@ -1,0 +1,784 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An assesment for Ireland for three months; at ten thousand pounds by the month Commencing the 12th. day of Ianuary 1654. and determining the 12th. of April following. Dublin this 1. of Ianuary 1654. Ordered by the Lord Deputy and Council, that this order and commission for the assesment, be forthwith printed and published. Signed by order of the said Lord Deputy and Council. Tho: Herbert, Clerk of the Council.</title>
+            <author>Ireland. Lords Justices and Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46002</idno>
+            <idno type="STC">Wing I336C</idno>
+            <idno type="STC">ESTC R236087</idno>
+            <idno type="EEBO-CITATION">99825877</idno>
+            <idno type="PROQUEST">99825877</idno>
+            <idno type="VID">30268</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46002)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30268)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1795:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An assesment for Ireland for three months; at ten thousand pounds by the month Commencing the 12th. day of Ianuary 1654. and determining the 12th. of April following. Dublin this 1. of Ianuary 1654. Ordered by the Lord Deputy and Council, that this order and commission for the assesment, be forthwith printed and published. Signed by order of the said Lord Deputy and Council. Tho: Herbert, Clerk of the Council.</title>
+                  <author>Ireland. Lords Justices and Council.</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by William Bladen,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>anno Dom. 1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30268:1" rendition="simple:additions"/>
+            <head>AN ASSESMENT for IRELAND For three Months; at Ten Thouſand Pounds by the Month.</head>
+            <p>Commencing the 12<hi rend="sup">th.</hi> day of <hi>Ianuary</hi> 1654. and Determining the 12<hi rend="sup">th.</hi> of April following.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>
+                           <hi>Dublin this</hi> 1. <hi>of Ianuary</hi> 1654.</p>
+                        <p>ORdered by the Lord Deputy and Council, That this Order and Commiſſion for the Aſſeſment, be forthwith Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>Signed by Order of the ſaid Lord Deputy and Council. <hi>THO: HERBERY. Clerk of the Council.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Printed by WILLIAM BLADEN, <hi>Anno Dom.</hi> 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:30268:2"/>
+            <pb facs="tcp:30268:2"/>
+            <head>IRELAND BY THE LORD DEPVTY AND COVNCIL.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by an Ordinance of his Highneſs the Lord Protector of the Common-wealth of <hi>Eng<g ref="char:EOLhyphen"/>land, Scotland.</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and the Domini<g ref="char:EOLhyphen"/>ons thereunto belong<g ref="char:EOLhyphen"/>ing, with the advice of his Council, bearing date the <hi>23<hi rend="sup">th.</hi>
+               </hi> of <hi>Iune, 1654.</hi> Entituled, <hi>An Or<g ref="char:EOLhyphen"/>dinance for the further en<g ref="char:EOLhyphen"/>couragement of the Adven<g ref="char:EOLhyphen"/>turers for Lands in</hi> Ire<g ref="char:EOLhyphen"/>land, <hi>and of the Souldiers, and other Planters there.</hi> It is,
+<pb n="2" facs="tcp:30268:3"/>Ordained (amongſt other things) that from and after the <hi>24<hi rend="sup">th.</hi>
+               </hi> day of <hi>Iune 1654</hi> For and during the ſpace of two years, then next enſuing, there ſhall be Taxed, Aſſeſſed, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, upon all the Counties, Towns, and places in <hi>Ireland,</hi> and all the Eſtates real and perſonal therein, the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thouſand pounds by the month, for every month, during the ſaid two years: It is therefore hereby Ordered, and Declared, that towards the pay of the forces of the Common-wealth in <hi>Ireland,</hi> and other publick charges, the Counties, Cities, and places, be charged for three months, with the ſums hereafter named, reſpectively, by the ſeveral ſums, and according to the ſeveral Rates, and proportions, and in manner and form hereafter expreſed, <hi>viz.</hi>
+            </p>
+            <p>The Countie of <hi>Dublin,</hi> the ſum of thirteen hundred and eighty pounds for three months, being four hundred and ſixty pounds each month.</p>
+            <p>The City and Countie of the Citie of <hi>Dublin,</hi> the ſum of ſix hundred and ninety pounds, for three months, being two hundred and thirty pounds each month.</p>
+            <p>The Countie of <hi>Kildare,</hi> the ſum of ſix hundred and ſixty pounds, for three months, being two hundred and twenty pounds each month.</p>
+            <p>The Countie of <hi>Catherlagh,</hi> the ſum of two hundred ſixty four pounds, for three months, being eighty eight pounds each month.</p>
+            <p>The <hi>Kings</hi> County, the ſum of two hundred and forty pounds, for three months, being eighty pounds each month.</p>
+            <p>The <hi>Queens</hi> Countie, the ſum of three hundred and ninety pounds, for three months, being one hundred and thirty pounds each month.</p>
+            <p>The County of <hi>Longford,</hi> the ſum of ſixty nine pounds, for three months, being twenty three pounds each month.</p>
+            <p>The Countie of <hi>Eaſt-Meath,</hi> with the Town of <hi>Dio<g ref="char:EOLhyphen"/>ghedah,</hi> the ſum of two thouſand three hundred twenty and two pounds, for three <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, being ſeven hundred twenty four pounds each month.</p>
+            <p>The County of <hi>Weſt-Meath,</hi> the ſum of three hundred
+<pb n="3" facs="tcp:30268:3"/>and ninety pounds for three months, being one hundred and thirty pounds each month.</p>
+            <p>The Countie of <hi>Kilkenny,</hi> with the Town thereof, the ſum of one thouſand ſeven hundred eighty five pounds, for three months, being five hundred ninety five pounds each month.</p>
+            <p>The Town and County of <hi>Wexford,</hi> the ſum of eight hundred and forty pounds, for three months, being two hundred and eighty pounds each month.</p>
+            <p>The County of <hi>Wicklo,</hi> the ſum of eighteen pounds, for three months, bing ſix pounds each month.</p>
+            <p>The Countie of <hi>Limerick,</hi> with the City and Countie thereof the ſum of nine hundred forty five pounds, for three months, being three hundred fifteen pounds each month.</p>
+            <p>The Countie of <hi>Corke,</hi> with the Citie and Countie thereof, the ſum of four thouſand one hundred eighty and eight pounds, for three months, being one thouſand three hundred ninety ſix pounds each month.</p>
+            <p>The Countie of <hi>Waterford,</hi> with the Citie and County thereof, the ſum of one thouſand one hundred twenty two pounds, for three months, being three hundred ſeventy four pounds each month.</p>
+            <p>The Countie of <hi>Kerry,</hi> the ſum of two hundred fifty five pounds, for three months being eighty five pounds each month.</p>
+            <p>The Countie of <hi>Tipperary,</hi> including <hi>Holicroſs,</hi> the ſum of two thouſand three hundred and forty pounds, for three months, being ſeven hundred and eighty pounds each month.</p>
+            <p>The Countie of <hi>Donegal</hi> or <hi>Tirconel,</hi> the ſum of thirteen hundred and fifty pounds, for three months, be<g ref="char:EOLhyphen"/>ing four hundred and fifty pounds each month.</p>
+            <p>The Countie of <hi>Tirone,</hi> including upper and nether <hi>Tirone,</hi> the ſum of four hundred ſeventy and one pound, for three months, being one hundred fifty ſeven pounds each month.</p>
+            <p>The County of <hi>Fermanath,</hi> the ſum of four hundred forty ſeven pounds, for three months, being one hundred forty nine pounds each month.</p>
+            <pb n="4" facs="tcp:30268:4"/>
+            <p>The County of <hi>Cavan,</hi> the ſum of ſeventy two pounds for three months, being twenty four pounds each month.</p>
+            <p>The Countie of <hi>Monaghan,</hi> the ſum of ninety pounds, for three months, being thirty pounds each month.</p>
+            <p>The Countie of <hi>Antrim,</hi> with the Town and Countie of <hi>Carrickfergus,</hi> the ſum of two thouſand and ſeventie pounds, for three months being ſix hundred and ninetie pounds each month.</p>
+            <p>The Countie of <hi>Downe,</hi> the ſum of ſeventeen hun<g ref="char:EOLhyphen"/>dred and forty pounds, for three months, being five hun<g ref="char:EOLhyphen"/>dred and eighty pounds each month.</p>
+            <p>The County of <hi>Ardmagh,</hi> the ſum of two hundred twenty five pounds for three months, being ſeventie five pounds each month.</p>
+            <p>The Countie of <hi>London-Derry,</hi> with the Citie and Countie thereof, and the Town and Barony of <hi>Colerane,</hi> the ſum of one thouſand and fifty pounds; for three months; being three hundred and fifty pounds each month.</p>
+            <p>The County of <hi>Lowth,</hi> the ſum of ſix hundred and eighteen pounds, for three months, being two hundred and ſix pounds each month.</p>
+            <p>The Countie of <hi>Clare,</hi> the ſum of four hundred thirty five pounds, for three months, being one hundred forty five pounds each month.</p>
+            <p>The Countie of <hi>Rolcomon,</hi> the ſum of five hundred and ten pounds, for three months, being one hundred and ſeventy pounds each month.</p>
+            <p>The Countie of <hi>Mayo,</hi> the ſum of three hundred and thirtie pounds, for three months, being one hundred and ten pounds each month.</p>
+            <p>The Countie of <hi>Sligoe,</hi> the ſum of two hundred and ſeventy pounds, for three months, being ninety pounds each month.</p>
+            <p>The Countie of <hi>Letrim,</hi> The ſum of eighty four pounds, for three months, being twenty eight pounds each month.</p>
+            <p>The Countie of <hi>Gallway,</hi> with the Town thereof, the ſum of two thouſand three hundred and forty pounds,
+<pb n="5" facs="tcp:30268:4"/>for three months, being ſeven hundred and eighty pounds each month.</p>
+            <p>And it is further Ordered and Declared, That the perſons hereafter named, ſhall be Commiſſioners of the ſeveral and reſpective Counties and places here<g ref="char:EOLhyphen"/>after nominated; for the Aſſeſſing Leavying and Colle<g ref="char:EOLhyphen"/>cting the Aſſeſment aforeſaid.</p>
+            <p>
+               <hi>Viz.</hi>
+            </p>
+            <p>For the County of <hi>Dublin,</hi> with the Citie and Coun<g ref="char:EOLhyphen"/>tie of the City of <hi>Dublin.] Charles</hi> Lord <hi>Lambert</hi> Sir <hi>Hardreſs Waller,</hi> Sir <hi>Ger<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ard Lowther,</hi> Sir <hi>Edward Bol<g ref="char:EOLhyphen"/>ton,</hi> Sir <hi>William Vſſher,</hi> Sir <hi>William Parſons,</hi> Sir <hi>Iohn Temple,</hi> Sir <hi>Robert Meredith,</hi> Sir <hi>Robert King</hi> Knights, <hi>Iohn Reynolds, Iohn Hewſon, Hierom Sankey, Richard Law<g ref="char:EOLhyphen"/>rence, Philip Ferheley, Iohn Blackwel, Iohn Vernon, Theo<g ref="char:EOLhyphen"/>philus Iones, Nicholas Bolton</hi> Iunior of <hi>Braſill,</hi> the Maior of <hi>Dublin</hi> for the time being, Doctor <hi>Henry Iones, Dudley Loftus, Iſaac Dobſon, Thomas Richardſon, Henrie Porter, Raphael Hunt, Richard Tigh, Daniel Hutchinſon, Iohn Price, Timothy Avery, Robert Moulſworth, Iames Standiſh, Tho<g ref="char:EOLhyphen"/>mas Boles, Iohn Preſton, William Franklin, William Got<g ref="char:EOLhyphen"/>tington, Iohn Smith</hi> of <hi>
+                  <hi>Drumconra,</hi> William Arnop, Iohn Percival, Chidley Coote, Arthur Anſlow, Iohn Byſſe, Ralph Wallis, Henry Iones, Thomas Walcor, William Blackwell <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Taylor, Iohn Blewet, Robert Haſles, Iohn Swan, William Ivory, Henry Iohnſon, Robert Percival, Iohn Gay</hi> Eſquires.</p>
+            <p>For the Countie of <hi>Kildare.</hi>] Sir <hi>Iohn Temple,</hi> Sir <hi>Paul Davis,</hi> Sir <hi>Robert Meredith,</hi> Sir <hi>Iohn Hoey</hi> Knights, <hi>Iohn Hewſon, Iohn Perceval, Iames Peiſley, Edward Davis; Henrie Alland, Henry Sankey, Robert Warnefore, Iohn Black<g ref="char:EOLhyphen"/>well, Iohn Hewerſon, Henry Pretty, Richard Andrews Wil<g ref="char:EOLhyphen"/>liam Meredith, Ioſhuah Carpenter, Iohn Ponſonby, Daniel Hutchinſon, Richard Tigh. Iohn Hughes, Theophilus Iones, Iohn Iordon, William Dixon, William Walker, Henry Crookhorn, Hugh Chamberlane, Thomas Richardſon, Io<g ref="char:EOLhyphen"/>ſeph Wray, William Smith, William Sands, Raphael Hunt, Brian Iones; Thomas Cheek, Philip Ferne Iey</hi> Eſquires.</p>
+            <pb n="6" facs="tcp:30268:5"/>
+            <p>For the Countie of <hi>Catherlogh.</hi>] Sir <hi>Iohn Temple,</hi> Knight, <hi>Henrie Prittie, Oliver Iones, Iames Peiſley, Henrie Sankey, Richard Andrews, William Skinner,</hi> Sir <hi>Iohn Hoey</hi> Knight, <hi>Iohn Benner, Daniel Hutchinſon, William Walker, Iames Stopford, Henrie Nichols, Henry Crookhorn, Wil<g ref="char:EOLhyphen"/>liam Bolton, Sampſon Twogood, Iames Shepheard, Iohn Iordon, William Huler, Francis Bolton, Raphael Hunt</hi> Eſ<g ref="char:EOLhyphen"/>quires.</p>
+            <p>For the <hi>Kings</hi> Countie] Sir <hi>William Parſons,</hi> Sir <hi>George Blundel</hi> Knights, <hi>Henry Owen, Iohn Byſſe, Willi<g ref="char:EOLhyphen"/>am Duckenfield, Henry Sankey, Edward Birtles, Edward Herbert, William Hamilton, Henry <hi>le</hi> Strange, Iohn War<g ref="char:EOLhyphen"/>ren, Randolph Sparrow, Alexander Staples, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Biſh<g ref="char:EOLhyphen"/>op, Henry Waddington, Iames Shaen, Cary Dillon, Alex<g ref="char:EOLhyphen"/>ander Brayfield</hi> Eſquires, <hi>Charles</hi> Lord <hi>Lambert, William Handcock, Peter Stubbard, Francis Hurd, Thomas Davies</hi> Eſquires.</p>
+            <p>For the <hi>Queens</hi> County.] Sir <hi>Charles Coot</hi> Knight, <hi>Daniel Axtel, Henry Pretty, Richard Stephens, Henrie Owen, Thomas Rawlins, Thomas Adams, Edward Feak, Oliver Wheeler, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Farrer, Henry Gilbert, Iohn Weaver</hi> Iu<g ref="char:EOLhyphen"/>nior, <hi>Richard Laghlin, Martin Iubbs, Francis Barrington, Philip Bigo, Thomas, Evans, Henry Baker, Thomas New<g ref="char:EOLhyphen"/>men, William Walker, William Scot, Vincent Kidder, Fran<g ref="char:EOLhyphen"/>cis Bolton, Robert Busbridge, Gilbert Rawſon, William Bol<g ref="char:EOLhyphen"/>ton, William Burges, Ben. Woodward, Samuel Gardner, William Walker</hi> Iunior, <hi>William Whaley, Henry E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ans, William Skinner, Peter Stubbar, Francis Hurd, Thomas Da<g ref="char:EOLhyphen"/>vies, Raphael Hunt</hi> Eſquires.</p>
+            <p>For the County of <hi>Longford.] Adam Molineux, Hen<g ref="char:EOLhyphen"/>rie Packenham, William Pelham, Iohn Tench, Iohn Ken<g ref="char:EOLhyphen"/>nedy, Samuel Price, Iohn Edgworth, Henry Waddington, Iames Shaen, Henry Sankey, Alexander Brayfield, Patrick Cary, William Handcock</hi> Eſquires.</p>
+            <p>For the Countie of <hi>Eaſt-Meath,</hi> with the Town of <hi>Droghedah.</hi>] Sir <hi>Charls Coot,</hi> Knight, Doctor <hi>Henry
+<pb n="7" facs="tcp:30268:5"/>Iones, Iohn Fowk, William Cadogan, Cadwallader Winne Simon Crane, Thomas Stanley, Ioſceline Uſher, Thomas<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Aſh, Henry Puckenham, Robert Cuſack, Alexander Iephſon, William Summers, Thomas Vincent, Iohn Baxter, Thomas Cook, Richard Edmunds, Bartholomew Fowk, Iames Mor<g ref="char:EOLhyphen"/>timer, Iohn Edgworth, Thomas Blood, Arthur Purefoy, William Markham, Joſeph Fox, Patrick Cary, Edward Mar<g ref="char:EOLhyphen"/>tin, Rowland Trolly, Edmund Hoyl, Thomas Fugil,</hi> Doc<g ref="char:EOLhyphen"/>tor <hi>Ionathan Edwards, Iohn Pierce, Iames Smalwood, Wil<g ref="char:EOLhyphen"/>liam Parkinſon, William Web</hi> Eſquires.</p>
+            <p>For the County of <hi>Weſt Meath.] Charles</hi> Lord <hi>Lam<g ref="char:EOLhyphen"/>bert, Iohn Reynolds, Richard Edmunds, Ridgely Hatfield; William Handcock, Alexander Iephſon, Henry Baker, Robert Smith, Henry Iones, Henry Pierce, Walter Staplehill, Peter Stern, Denis Brown, Alexander Brayfield, Iames Shaen, Hen<g ref="char:EOLhyphen"/>ry Waddington, Sebaſtian Brigham, Patrick Cary, Peter Stub-Francis Hurd, Thomas Davies, William Parkinſon, Arthur Purefoy</hi> Eſquires.</p>
+            <p>For the County of <hi>Kilkenny</hi> with the Town of <hi>Kilken<g ref="char:EOLhyphen"/>nie.] Iohn Reynolds, Daniel Axcel, Richard Stephens, Hen<g ref="char:EOLhyphen"/>ry Owen, Thomas Rawlins, Thomas Adams, Thomas Evans, Thomas Wilſon, Abel Warren, William Burges</hi> Eſquires. Sir <hi>H<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dreſſ Waller,</hi> Sir <hi>Patrick Wemys</hi> Knights. <hi>Ri<g ref="char:EOLhyphen"/>chard Smith, Thomas Butler, Marmaduke Tailor, Iohn Brawn, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Ridgeway, Thomas Newman, William Bolton, Henry Pretty, Edward Fe<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> William Whaley, Hicrom San<g ref="char:EOLhyphen"/>key, Ben Wor<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y, Philip Peak, Oliver Wheeler, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Farrar, William Warden, Iohn Woodcock, Thomas Squth<g ref="char:EOLhyphen"/>well, William Halſey, Thomas Fog, Henry Baker, Thomas Chesſhire, Stephen Squib, Arthur Swanwick, Iohn Campbel</hi> Eſquires.</p>
+            <p>For the County of <hi>W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rford</hi>] Sir <hi>Charles Coote</hi> Knight, <hi>Thomas Sadler, Arthur Anſlow, Iohn Overſtreet, Iohn Padle, William Halſey, William Moo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Bartholomew Huſſey, Edward Tomlins, Ambroſe Andrew<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>by, Iohn Win<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>worth, Thomas Brereton, Thomas Danc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r, Sampſon Twogood, Matthew <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Edward With<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, William Walker</hi> Iu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, <hi>Thomas <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>bell Warren, William Cleburn, Chriſtopher Dobſon, Peter
+<pb n="8" facs="tcp:30268:6"/>Wallis, Thomas Betts, Samuel Sheir<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Whomas Richardſon <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Murph<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, Henry Pretty, Nicholas Loftus, Nicholas <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>odd, Richard VVilbore, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> of <hi>Kilbride, Nicho<g ref="char:EOLhyphen"/>las Dever<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ox, Edward Brading, Iohn Kett, VVilliam Wood<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ald, Conſtantine Neal, Thomas Low, Robert VVilkinſon</hi> Eſquires.</p>
+            <p>For the County of <hi>Widdow.] Iohn Hewſon, Richard Lawrence, Thomas Brereton, VVilliam Arnop, Iohn Iecpel, Iohn Boſwell, George Phillips, Edward Hoar, Robert Ken<g ref="char:EOLhyphen"/>nedy, Iohn Ponſonby, Divid Fleetwood, Henry Iones, Ed<g ref="char:EOLhyphen"/>ward Carter, Thomas Richardſon, Bartholomew Huſſey, Richard Neale</hi> Eſquires.</p>
+            <p>For the County of <hi>Limerick,</hi> and the City and County of the City of <hi>Limerick.</hi>] Sir <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> VValler</hi> Knight, <hi>Henry Ingoldsby, William Purefoy, Thomas Southwell, William Piggot<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Edward Southwell, Francis Courtney, Ro<g ref="char:EOLhyphen"/>bert Cox, Samuel Clerk, Thomas Iackſon, Walter VValler, Ralph VVilſon, VVilliam Hartwell, Robert VVilkinſon, Iohn Taylor, Richard <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, VVilliam Yarwell, Iames Harri<g ref="char:EOLhyphen"/>ſon, VVilliam King, Iohn Friend, Robert Sta<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ard, Benja<g ref="char:EOLhyphen"/>min Lucas, Edward VVarren, VVilliam VVood, Robert <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Ioſeph Bennet, Daniel Bowman, Ieremiah Howard, Iohn Parkinſon, VVilliam Riall, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Robinſon</hi> Eſquires.</p>
+            <p>For the County of <hi>Cork,</hi> and the City and County of the City of <hi>Cork.] Roger</hi> Lord <hi>Broghill,</hi> Sir <hi>Hardreſs VValler,</hi> Sir <hi>VVilliam Fenton</hi> Knights, <hi>Iohn Brodrick, Maurice Fenton, Robert Phayre, Richard Hodden, Triſtram VVhitcomb, VValter VValler, Abraham Savage, Iohn Ba<g ref="char:EOLhyphen"/>ker, Peter VVallis, Robert Sanders, Robert Southwell, Io<g ref="char:EOLhyphen"/>ſeph D<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>an, Vincent Go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ki<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Iohn Perceval, Iohn Hoddar, VVilliam Hall, Ioſeph Murdock, Nicholas Purd<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, Iohn VVidenham, Francis Fowk, Simon Eaton, Eſay Thomas, Thomas Wood<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, Richard <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Iohn <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Peter Ca<g ref="char:EOLhyphen"/>rey, Robert Gookin, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nell, Iohn Iephſon, Thomas <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Iohn Denniſon, Samuel <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Benjamin Croft<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Charls <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, William Iephſon, Philip <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Iohn <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Iohn Harding, Thomas C<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, Thomas Moſſe, Henry <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Robert Hedges, Robert Cuppage, Peter <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Iohn <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Valentine <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> Eſquires.</p>
+            <pb n="9" facs="tcp:30268:6"/>
+            <p>For the County of <hi>Waterford,</hi> with the Town of <hi>Wa<g ref="char:EOLhyphen"/>terford.] Richard Lawrence, Thomas Sadler, William Leigh, William Halſey, Samuel Wade, Thomas VVatts, Robert Fawcett, Thomas Bolton, Andrew Rickard, George Caw<g ref="char:EOLhyphen"/>dron, Iohn Ve<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>on, Iohn VVilliams, Samuel Sheers, Henry Slade, Iohn Cooke, Henry Smithwick, Richard Oſborn, Ni<g ref="char:EOLhyphen"/>cholas Oſborn, Francis Foulke</hi> Eſquires.</p>
+            <p>For the County of <hi>Kerry.</hi>] Sir <hi>Charles Coot</hi> Knight, <hi>Iohn Nelſon, Richard Ouſley, Iohn Carrick, VVhitehall Brown, Arthur Denny, Iohn Haſſer, Thomas Barrington, Thomas Holmes, Henry Whittle, Peter Purefoy, Iohn Per<g ref="char:EOLhyphen"/>ceval</hi> Eſquires.</p>
+            <p>For the County of <hi>Tiperary,</hi> including <hi>Holy-croſs.</hi>] Sir <hi>William Fenton</hi> Knight; <hi>Iohn Reynolds, Hierom San<g ref="char:EOLhyphen"/>key, Daniel Abbot, Solomon Richards</hi> Senior, <hi>Solomon Richards</hi> Iunior, <hi>Iohn Godfrey, Elias Green, Ri<g ref="char:EOLhyphen"/>chard Le-hunt, Charles Blunt, Robert Thornhill. Iohn Per<g ref="char:EOLhyphen"/>ceval, Henry Paris, Thomas Batty. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Folio, Iohn Booker, Iohn Ioyner, William Walters</hi> of Cu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>in, <hi>Wal<g ref="char:EOLhyphen"/>ter Waller, Maurice Fenton, William Halſey, Walter Car<g ref="char:EOLhyphen"/>wardin, Martin Dix, Francis Vaughan, Iohn Blackwel, George Clarke</hi> Eſquires Sir <hi>Thomas Meredith</hi> Knight.</p>
+            <p>For the County of <hi>Donegall.</hi>] Sir <hi>Robert Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y,</hi> Sir <hi>George Atcheſon,</hi> Sir <hi>Paul Davis</hi> Knights, <hi>Wil<g ref="char:EOLhyphen"/>liam Baſil</hi> Atturney Generall, <hi>Thomas Newbrough, Henry Brooks, Arthur Gore, Iames Linſey, Archibald Sprowle, Ralph King, Hugh Edwards, Owen Winn, Charles Hamilton, Edward Huſſet, Iohn Folliot, George Cary, Richard Perkins, Iohn Hill, Francis Zachery, Iohn Zachery, William Squire, Richard Ask, Iohn Ba<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Francis Bolton, Iohn Galland, Iohn Salt, Henry Skevington, Iohn Wilton, Henry Alland, Francis Leg, William Dutten, Thomas Dut<g ref="char:EOLhyphen"/>ten Alexander Staples</hi> Eſquires.</p>
+            <p>For the County of <hi>Tirone,</hi> including upper and nether <hi>Tirone.] William</hi> Lord <hi>Gawfield,</hi> Sir <hi>Henry T<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>chburne,</hi> Sir <hi>George Atcheſon</hi> Knights, <hi>Ralph King, Owen Winn, Thomas Newbourgh</hi> Senior, <hi>Chriſtopher C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pley, Nicholas <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Edward Hill, Francis Zachery, Iohn Zachery, Oliver An<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l, Iohn Foſter, William Moore,
+<pb n="10" facs="tcp:30268:7"/>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Young, William Squire, Richard Ask, Iohn Barret, Francis Bolton, Iohn Galland, Iohn Salt, Henry Skevington, George Wilton, Francis Leg, Samuel Hill Alexander Staples</hi> Eſquires.</p>
+            <p>For the County of <hi>Fermanagh.] Samuel Batteley Lewis Northcort, Richard Nun, Francis Cole, Iohn Cole, Ste<g ref="char:EOLhyphen"/>phen Allin, Arnold Cosby, Henry Brook, Hugh Roſs, Adam Rathcart, Iohn Cheſlin, Robert Cole, Henry Langford, Sa<g ref="char:EOLhyphen"/>muel Powel, Iohn Read, Thomas Seagrave, Ralph Fenwick, Cadwallader Winne, Iames Gerrard, Iohn Hardier, Chidley Coote, Nicholas Willoughby, Edward Philpot, Oliver An<g ref="char:EOLhyphen"/>ctil, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Gilbert, William VVinckworth, Iohn Car<g ref="char:EOLhyphen"/>mich</hi> Eſquires.</p>
+            <p>For the County of <hi>Cavan.] Charles</hi> Lord <hi>Lambert,</hi> Sir <hi>Charles Coote,</hi> Sir <hi>George Atcheſon</hi> Knights, <hi>Iohn Read, William Morris, Iohn Winckworth, Edward Philpot, Thomas White, William Moore, Thomas Seagrave, Charles Hamilton, Thomas Coote, William Kempſon, Ralph Fen<g ref="char:EOLhyphen"/>wick, Iames Gerrard, Iohn Hardier, Chidley Coote, Lewis Northcot, Richard Nun, Iohn Matthews, Tobias Peak, Fran<g ref="char:EOLhyphen"/>cis Brereton, Thomas Burton, Richard Lewis, Richard Ay<g ref="char:EOLhyphen"/>let, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Gun, Thomas Guilliams, Thomas Richardſon, Thomas Hart, Iohn Bernard, Samuel Townly</hi> Eſquires.</p>
+            <p>For the County of <hi>Monaghan.</hi>] Alderman <hi>Vincent, Ralph Fenwick, William Sands, Iohn Matthews, Henry Pon<g ref="char:EOLhyphen"/>ſonby, Robert Aldridge, Robert Barclay, Iohn Read, Willi<g ref="char:EOLhyphen"/>am Morris, Thomas Coot, Hugh Barclay, Robert Sanderſon, Thomas Seagrave, Cadwallader Winne, Lewis Northcot, Richard Nun, Iames Gerrard, Iohn Hardier, Chidley Coote, Edward Cary, Francis Cole, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Lane, Iohn Iackſon, Walter Cary</hi> Eſquires.</p>
+            <p>For the Countie of <hi>Antrim,</hi> including the Towns and County of <hi>Carigfergus.</hi>] Lord <hi>Chicheſter,</hi> Sir <hi>Iohn Clotworthy</hi> Knight, <hi>Arthur Hill, Robert Venables, Daniel Redman, Thomas C<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, Alexander Colvil, Robert Colvil, Roger Lyndon, Henry Flower, Brian Smith, Iohn Barret, Phi<g ref="char:EOLhyphen"/>lip Ebzury, Richard A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k, Edward Conway, Robert Cuſack. George Rawdon, Iames Trayle, Thomas Wal<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t, Francis Meek, Richard Bickerſtaff,</hi> the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <hi>Carigfergus</hi> for the time being, <hi>Arthur Lipton, Hercules Langford, Iohn Dalway
+<pb n="11" facs="tcp:30268:7"/>Philip Pinchon, Henry Ellis, Iohn Duckenfield, Iohn Reading, Richard Done, Samuel Bonnel, William Williams, William Loe, George Talbot, Thomas Harpar, Richard Peirce, Mi<g ref="char:EOLhyphen"/>chael Harriſon, Alexander Cornwal, Francis Richardſon, Iohn Frank, Robert Preſton, Richard Franklin, Ioſeph Stroud, Iohn Matthews, Iohn Collins, William Diſney, Samuel Powell, William Kuningham, Archibald Stewart, Iohn Clerk, Iames Shaw, Iohn Donnaldſon, Alexander Donnaldſon, Adam Boyd, Thomas Church, William Huetſon, Henry Marſh, Thomas Howard, Iohn Orpin, Edmund Davis, Iames Adaire, Iohn <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Dowel</hi> of Six-Mile-Water, the Soveraign of <hi>Belfaſt, Thomas Warning, Iohn Buſh, William Lees, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Haddington, Iohn Waring, William Waring, Alexander Sta<g ref="char:EOLhyphen"/>ples</hi> Eſquires.</p>
+            <p>For the Countie of <hi>Down.</hi>] Sir <hi>George Blundell</hi> Knight, <hi>Robert Venables, Philip Pinchon, Arthur Hill, Robert Barrow, Robert Cuſack, Roger Weſt, Iames Trayle, Tobias Norris, William Bingley, Iohn Lucas, Iames Shaen, Hugh Savage, George Rawden, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Perrot, Tobias Pointz, Andrew Graham, Alexander Slowan, Fergus Ken<g ref="char:EOLhyphen"/>nedy, Francis Keyth, William Hawkins, Colin Max<g ref="char:EOLhyphen"/>well, Hans Hamilton, Francis Bolton, Iohn Duckenfield, Iohn Reading, Richard Done, Samuel Bonnel, William Williams, William Loe, George Talbot, Iohn Frank, Robert Preſton, Richard Franklin, Ioſeph Stroud, Iohn Matthews, Iohn Col<g ref="char:EOLhyphen"/>lins, William Diſney, Samuel Powel, Iohn Pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſon, George Auguſtine, Iohn Baily, Iohn Turner,</hi> Provoſt of <hi>
+                  <hi>New Town,</hi> 
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Matthews, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Bagnal, Iohn Waring, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Preſton, Iohn Verner, William Hamilton</hi> of <hi>
+                  <hi>Rowbane,</hi> George Rol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Alexander Stuart, Robert Maxwel, Robert Fenwick, Miles Ienkinſon, Iohn Dob, Thomas Williams, George Low, Alexander Staples Iohn Barret</hi> Eſquires.</p>
+            <p>For the County of <hi>Ardmagh.] William</hi> Lord <hi>Caw<g ref="char:EOLhyphen"/>field,</hi> Sir <hi>William Brownlow,</hi> Sir <hi>George A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cheſon,</hi> Knights, <hi>Robert Venables, Hans Hamilton, Thomas Cham<g ref="char:EOLhyphen"/>bers, Arthur Anneſley, Henry Dillon, Anthony Cope, Ro<g ref="char:EOLhyphen"/>bert Cuſack, Roger Weſt, Tobias Points, Edward Richard<g ref="char:EOLhyphen"/>ſon, Iames Trail, Iohn Duckenfield, Iohn Reading, Richard Done, Samuel Bonnel, William Williams, William Loe, George Talbot, Iohn Frank, Robert Preſton, Richard Frank<g ref="char:EOLhyphen"/>lin, Ioſeph Stroud, Iohn Matthews, Iohn <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, William Diſney, Samuel Powel, George Blacker; Iohn Erp, William
+<pb n="12" facs="tcp:30268:8"/>Arthur, Iohn Iones, Francis Richardſon, Iohn Lord, Iohn R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, William W<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ey, Edward Atcheſon, Alexander Gill, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Richardſon, Robert Fonwick</hi> Eſquires.</p>
+            <p>For the Countie of <hi>London-derry,</hi> and the Citie and Countie of the Citie of <hi>London-derry.</hi>] Sir <hi>Charls Coot,</hi> Sir <hi>Robert <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Knights, The ſeveral Mayors of <hi>London-derry</hi> and <hi>Colerane</hi> for the time being, <hi>Du<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dey Phillips, George Phillips, Ralph King, Hugh Edwards, Phi<g ref="char:EOLhyphen"/>lip <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Henry <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lower, Bryan Smith, Iohn Barret, Ri<g ref="char:EOLhyphen"/>chard <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>worthy, Robert <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Owen Winne, Thomas Newbourgh, Henry Finch, Triſtram Berisford, George Cary, Robert Smith, Thomas Mu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cree<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, Francis Bolton Francis Zechery, Iohn Zechery, William Squire, Iohn Galland, Iohn Salt, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Shevingto<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, George Wilton, Fran<g ref="char:EOLhyphen"/>cis Leg, Michael Berisford, William Cuningham</hi> Eſquires.</p>
+            <p>For the Countie of <hi>Lowth.] Iohn Fowl, William Aſton, Robert Winne, William Armitage, Iohn <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Samuel Stan<g ref="char:EOLhyphen"/>bridge, Rowland Trolly, Edward Martin, William Cadogan, Thomas Stanly, Henry Gilbert, Ioſeph Fox, Thomas Fugill, Simon Crane, Cadwallader Winne, Henry Ponſonby, Henry Bellingham, VVolſtan Dix<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, Samuel Law<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on, Samuel Ire<g ref="char:EOLhyphen"/>land, VVilliam Neve, VVilliam Shaw, Patrick Cary, VVil<g ref="char:EOLhyphen"/>liam Diſney, Richard Coote, Robert Boyle, VVilliam Low, Thomas Fugill,</hi> Doctor <hi>Ionathan Edwards, Iohn Peirce, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>wood, Iohn Bernard, Samuel Townely.</hi> Eſquires.</p>
+            <p>For the County of <hi>Clare.</hi>] Sir <hi>Hardreſs VValler</hi> Knight, <hi>VVilliam Purefoy, Iohn Cooper, Thomas Southwell, Fran<g ref="char:EOLhyphen"/>cis Courtney, Robert Cox, Samuel Clerk, Thomas Iackſon, VValter VValler, Ralph VVilſon VVilliam Hartwell, Robert VVilkinſon, Iohn Tailor, Richard Hart, VVilliam Yarwell, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Harriſon, VVilliam King, Iohn Friend, Robert Stan<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>, Philip <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Benjamin Lucas, Edward VVarren, VVilliam VVood, Robert Cha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, Ioſeph Benner, Daniel <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Ieremiah Howard, Henry Greenway, VVilliam <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, VVilliam Piggot, Edmund Southwell, William Rum<g ref="char:EOLhyphen"/>ſey, Robert S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ear<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, George Pur<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, Thomas Cullen, Thomas Battington, Thomas Graham, George Roſſe, Thomas <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Iohn <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Eſquires.</p>
+            <pb n="13" facs="tcp:30268:8"/>
+            <p>For the Countie of <hi>Roſcomon.] Arthur</hi> Lord <hi>Ranne<g ref="char:EOLhyphen"/>lagh,</hi> Sir <hi>Charls Coote,</hi> Sir <hi>George St. George,</hi> Knights, <hi>Alexander Brayfield, Iohn King, Henry Waddington, Iames Shaen, Richard St. George, Robert Ormsby, Iohn Disbrow, Iohn Boſwell, Theophilus Sandford, Iames Synnock, Rich<g ref="char:EOLhyphen"/>ard Crac<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on, Edward Crofton, Iames King, Iohn Nelſon, Sebaſtian Brigham, Charls Coot, VVilliam Handcock</hi> Eſqu<g ref="char:EOLhyphen"/>ires. <hi>Charles</hi> Lord <hi>Lambert, Oliver St. George, Arthur Ormsby, Charles Ormsby, George Ormsby, Charles Car<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>et <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Eſquires.</p>
+            <p>For the Countie of <hi>Mayo.</hi>] Sir <hi>Charls Coote,</hi> Sir <hi>George B<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gham,</hi> Sir <hi>Robert H<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y,</hi> Knights, <hi>Iohn Rey<g ref="char:EOLhyphen"/>nolds, Peter Stubber, Iohn Swanwic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Iames <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Charls Ormsby, Arthur Ormsby, Robert Boyle, Robert Oliver, Robert Ormsby, Iohn Bolwell, Thomas Hart, Thomas Bring<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>, Iohn Eyre, Arthur Swanwick, Philip Bowen, William Edwards, Charls Holcroft, Henry Waddington, Stephen Squib, Henry Greenway, Gabriel King,</hi> Eſquires.</p>
+            <p>For the Countie of <hi>Sligo.</hi>] Sir <hi>Charls Coote,</hi> Sir <hi>Robert King,</hi> Knight, <hi>Samuel Shepherd, Richard Coote, Robert Park, Arthur Gore, Iohn Bo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>well, Owen Vaughan, Owen Floyd, Edward Crofton, Thomas Crofton, Iohn King, William Ormsby, Robert Ormsby, Thomas Ormsby, Henry Wadington, Philip Ormsby, Anthony Ormsby, Gil<g ref="char:EOLhyphen"/>bert C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Thomas Cartwright, Lewis Iones, Robert Oliver, Francis Iackſon, Francis King, William Boſwell, Lewis Wink<g ref="char:EOLhyphen"/>field, Richard Woods, Edward <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Iohn Lang, Robert Boyle,</hi> Eſquires.</p>
+            <p>For the Countie of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi>] Sir <hi>Charles Coot,</hi> Sir <hi>George <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Sir <hi>George St. George</hi> Knights, <hi>Richard Coot, Owen Winn, Robert Park, William St. George, Na<g ref="char:EOLhyphen"/>thaniel Evanſon, Henry Crofton of</hi> Moghil, <hi>William Hand<g ref="char:EOLhyphen"/>cock, Charles carte<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, Oliver St. George, Henry <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>fold, Owen <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Henry Waddington <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Iones, Iames Shaen</hi> Eſquires.</p>
+            <p>For the Countie of <hi>Galway</hi> with the Town of Galway] Sir <hi>Charles Coot</hi> Knights, <hi>Iohn Reynolds, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, William Edward, Francis <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Francis <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ores, William Moore, Oliver St. George, Thomas Davis, Henry Greenway, Iohn
+<pb n="14" facs="tcp:30268:9"/>Boſwel, Iames Cuff, Stephen Squib, Robert <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ac<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, Charls Holcroft, Iohn Eyre, Iohn Winn, Robert Clerk, Iohn Deſ<g ref="char:EOLhyphen"/>brough, Philip Bigo, Robert Clerk, Robert Ormsby, Henry Wadington, Gilbert Carter</hi> Eſquires.</p>
+            <p>And it is further Ordered and Declared, that the ſe<g ref="char:EOLhyphen"/>veral and reſpective Commiſſioners hereby appointed for the ſeveral and reſpective Counties and Cities afore<g ref="char:EOLhyphen"/>ſaid, ſhall within eight daies or ſooner (if it may be) next enſuing the publication hereof, meet together in the chief Towns in each of the ſaid Counties or ſome other convenient place by the ſaid Commiſſioners for that pur<g ref="char:EOLhyphen"/>poſe to be appointed, or any two or more of them giving notice to the reſt, of the time and place of ſuch their meeting which ſaid Commiſſioners are hereby required, and authorized in Order to the effectual and timely put<g ref="char:EOLhyphen"/>ting in execution of the contents hereof, to divide and apportion the ſaid Aſſeſments, in as equal and impartial manner as they can, according to the manner and form hereafter expreſſed, that is to ſay; The ſaid Aſſeſment is to be Raiſed, Aſſeſſed, and Leavied, for three months aforeſaid commencing the twelfth day of <hi>Ianuary</hi> inſtant, and determining the twelfth day of <hi>April</hi> next, and ſhall be forthwith Taxed and Aſſeſſed by a pound rate equal<g ref="char:EOLhyphen"/>ly on the ſeveral Diviſions, Baronies, and Pariſhes, in the reſpective Counties, Cities, and Places aforeſaid, for all and every the Lands. Tenements, and Heredita<g ref="char:EOLhyphen"/>ments, Goods, Chattels, Monies, Stock or Eſtate, yeilding any profit or increaſe according to the value thereof, that is to ſay as much upon every twenty ſhil<g ref="char:EOLhyphen"/>lings Rent or yearly value of Land and real Eſtate, as upon Money Stock and other perſonal Eſtate by an equall Rate wherein every ſix pound in Money, Stock or other perſonall Eſtate ſhall bear the like charge as ſhall be ſaid upon every twenty ſhillings yearly Rent, or yearly value of Land as will raiſe the Monthly ſum or ſums charged upon the reſpective Counties or Places aforeſaid; for the better effecting whereof.</p>
+            <p>It is hereby further Ordered and Declared, that the ſeveral <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Commiſſioners hereby appointed in the ſeveral and reſpective Counties and Cities ſhall meet together as occaſion ſhall be, from time to time once every week, or fourteen daies at leaſt at the chief
+<pb n="15" facs="tcp:30268:9"/>Town in each County, or ſome convenient place as afore<g ref="char:EOLhyphen"/>ſaid, And the ſaid Commiſſioners or any three or more of them ſhall (after the publique reading hereof) there chuſe, nominate, and appoint, two or three, or more if they ſhall think fit, of the honeſt and able Proteſtant Engliſh inhabitants (if it may be) in y<hi rend="sup">e</hi> ſeveral &amp; reſpective Baro<g ref="char:EOLhyphen"/>nies, Towns, Pariſhes, or Cities aforeſaid, and them to appoint to take a particular &amp; exact enquiry, Survey, or Eſtimate, of each mans Land, Tenement, rent, &amp; ſtocks, in every reſpective Citie, Town, Vilage, or place, together with the yearly value &amp; profits of the ſame, and to return the ſaid inquiry, Survey, or Eſtimate, under their hands in writing to the ſaid Commiſſioners, or to ſuch Perſon, or Perſons of them, as ſhall be by the ſaid Commiſſi<g ref="char:EOLhyphen"/>oners appointed, to receive the ſame.</p>
+            <p>And to the end an equal rate throughout the whole Coun<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y and every part thereof, may be obtained, the ſaid Commiſſioners, or any two or more of them, may and are hereby authorized, to adminiſter an Oath, (if they ſee cauſe) to the reſpective Perſons aforeſaid, for their faithful diſcharge of the truſt repoſed in them, and for their juſt and impartial dealing in the ſame, ſuch Enquiries, Surveys, or Eſtimates, to be deliver<g ref="char:EOLhyphen"/>ed in writing, within one and twenty daies after the ſaid day of the ſaid Commiſſioners firſt meeting and the ſaid Commiſſioners or any three, or more of them then pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> after the ſaid return, upon the view, and peruſal of the ſaid ſeveral inquiries, Surveys, or Eſtimates, ſhall truely caſt up the total Revenue, and yearly profits of the whole Counties Cities and Towns aforeſaid to the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> equal pound rate may be apportioned upon every Baronie, Citie, Townſhip, or Pariſh according to the proportion and ſum of money charged upon the ſaid County by vertue of this preſent Order (if the ſaid Commiſsioners ſhall not ſee juſt cauſe to alter the ſaid returns) and the ſaid Commiſſioners or any three or more of them aſſembled are by vertue hereof authori<g ref="char:EOLhyphen"/>zed and appointed to apportion each mans ſhare or pro<g ref="char:EOLhyphen"/>portion due according to the ſaid return, or as they ſhall iudge moſt equall and indifferent and ſhall forthwith ſend forth their Warrants to the ſeveral Con<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>al<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es, or other Perſon or Perſons <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> each Barony or Pariſh <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they ſhall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> requiring them forthwith to collect the
+<pb n="16" facs="tcp:30268:10"/>ſeveral and reſpective ſums of Money, to each mans Name annexed, which ſums are to be expreſſed not in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but in words at length, for which purpoſe the ſaid Commiſſioners are with the ſaid Warrants like<g ref="char:EOLhyphen"/>wiſe required to ſend a particular of what each mans Se<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s (under the charge of the ſaid Conſtable or other Perſon or Perſons in each Baronie appointed as afore<g ref="char:EOLhyphen"/>ſaid) is, rateable to his Land, Tenement, Rent, or Stock, <hi>&amp;c.</hi> returned as aforeſaid, requiring the ſaid Conſtable, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> other Perſon or Perſons ſo intruſted, to make payment of the Monies ſo Collected, into the hands of the Receivers for th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> purpoſe appointed, or to be ap<g ref="char:EOLhyphen"/>pointed, and in Order to the writing the Duplicates aforeſaid, the ſaid Receivers Clerks, are, for that pur<g ref="char:EOLhyphen"/>poſe from time to time to attend on the ſaid Commiſſi<g ref="char:EOLhyphen"/>oners at the time and place of their meeting, and the ſaid Commiſſioners are likewiſe to cauſe the ſaid Aſſeſ<g ref="char:EOLhyphen"/>ments to be fairly Written and Subſcribed by them, and delivered to the reſpective Receivers aforeſaid, and to certifie <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Writing the true State thereof, together with the total, both of the Profits of Land, Houſes, Rent and Stock, <hi>&amp;c.</hi> in each County and Baronie, and what reſpectively is charged on every twenty ſhillings <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in Land. Tenements, Rent, and on every ex<g ref="char:EOLhyphen"/>pound Stack unto <hi>Henry Markham, Edward Roberts,</hi> and <hi>Richard Kingdon</hi> Eſquires, Commiſſioners General for the publick Revenue Stores of <hi>Ireland,</hi> their Office in <hi>Dublin.</hi>
+            </p>
+            <p>And it is hereby further Ordered, That if any Per<g ref="char:EOLhyphen"/>ſon or Perſons ſhall refuſe or neglect to pay the reſpective ſums of Money on him or them Taxed, that it ſhall and may be lawful for the ſaid Conſtable, or other Perſon or Perſons appointed as aforeſaid, to Collect the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, to break open any Houſe, Cheſt, Trunk or Box, and to Leavy by diſtreſs of Goods or other wiſe, the ſaid Tax, bringing the ſaid Goods ſo diſtrained unto the reſpective <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> aforeſaid, or the next Commiſſioners herein for ſuch County <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, or Iuſtice of the Peace for ſuch Countie, and in caſe the ſaid Owner <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſhall neglect to pay his or their Tax, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> or their Goods (<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diſtrained) within four days after ſuch diſtreſs <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the ſaid Reſpective <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> or Iuſtices of the Peace, are too <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diſ<g ref="char:EOLhyphen"/>treſs
+<pb n="17" facs="tcp:30268:10"/>to be ſold by publick canting, or otherwiſe in ſome publick Market, cauſing ſuch Perſons Aſſeſments to be paid there out, and the overplus to be returne to the Owner, allowing the Conſtable reaſonable conſiderati<g ref="char:EOLhyphen"/>on (not exceeding two ſhillings in the pound) for his deſtraining for the ſaid Tax, And the ſaid Conſtable or other Perſon or Perſons appointed for Collecting the ſame; are hereby authorized to call to his or their Aſſiſ<g ref="char:EOLhyphen"/>tance any Officer or Souldier of the Army or any other Perſon or Perſons whatſoever in the due proſecution of the premiſes, which Aſſiſtance the ſaid Perſon or Per<g ref="char:EOLhyphen"/>ſons ſo required are not to refuſe at their peril.</p>
+            <p>And if the ſaid Conſtable or other Perſon or Perſons appointed as aforeſaid ſhall neglect the duty hereby re<g ref="char:EOLhyphen"/>quired from them, and ſhall ſuffer the ſaid Aſſeſment to run in Arrear after the ſame ſhall grow due; having received Warrant for Collecting the ſame as aforeſaid; then the ſaid Commiſſioners, or any two of them, re<g ref="char:EOLhyphen"/>ceiving certificate hereof in writing from the aforeſaid reſpective Receivers, may and are hereby anthorized (if they ſee cauſe) to give Order and Direction to any Officers or Souldiers of the Army to Quarter upon ſuch Perſon or Perſons ſo neglecting his or their duty to Collect the Aſſeſment as aforeſaid or to impoſe ſuch Fine or Fines under the ſaid Conſtable, or Perſon, or Perſons appointed as aforeſaid; as they ſhall think fit, not ex<g ref="char:EOLhyphen"/>ceeding for any one Offence five pounds, Leavying the ſame by diſtreſs of Goods or otherwiſe (as is before directed) and cauſing the ſame for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to be paid into the hands of ſaid reſpective Receivers for the uſe of the Common-wealth, and if any Perſon, or Perſons, employed or required to take a particular and exact en<g ref="char:EOLhyphen"/>quiry Survey, or Eſtimate, of the profits of Lands, Tenements, Rents and Stock as aforeſaid, ſhalt neglect or refuſe to make his or their returns without the time, and according to the manner as is before diverted, or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> knowingly or willingly make any falſe or ſhort return of the real or perſonal Eſtate of any Perſon or Perſons, the ſaid Commiſſioners for the Aſſeſment or any three <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of them being fully ſatisfied of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thereof; are hereby <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to impoſe ſuch fine or fines on ſmall Offender as they ſhall think fit not exceeding for any the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Ten Pounds, cauſing one Moiety of
+<pb n="18" facs="tcp:30268:11"/>the ſame to be paid into the hands of the reſpective Re<g ref="char:EOLhyphen"/>ceivers for the uſe of the Common-wealth, and the o<g ref="char:EOLhyphen"/>ther Moyety to the Diſcoverer or Diſcoverers, to be Leavied by diſtreſs of Goods as is before directed.</p>
+            <p>And to the end no obſtruction may be in the timely paying in of the aforeſaid Aſſeſment: It is hereby fur<g ref="char:EOLhyphen"/>ther Ordered, That the Goods and Stock of each re<g ref="char:EOLhyphen"/>ſpective Tenant or Holder ſhall be <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>able to be Taxed, as well for any Rent or Profit due, which ought to be paid by the Farmer, Tenant or Occupier, to the Land-Lord, or any other perſon or perſons whatſoever claim<g ref="char:EOLhyphen"/>ing the ſame; as for his own Stock or Holding. And the ſaid Aſſeſment to paid by the Farmer, Tenant or Occupier of Land by virtue of this Order, for any in reſpective of ſuch Rents and Profits, and which in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ought to be paid by the Land-Lord; the ſaid Far<g ref="char:EOLhyphen"/>mer, Tenant or Occupier of the ſaid Land ſhall be ac<g ref="char:EOLhyphen"/>quitted and discharged for ſo much thereof as the ſaid Tax or Aſſeſment ſhall amount unto, as effectually to all intents and purpoſes as if the ſame had been actual<g ref="char:EOLhyphen"/>ly paid unto his Land-Lord, or any other perſon or perſons, unto whom his Rent ſhall become due and pay<g ref="char:EOLhyphen"/>able. And if any perſon or perſons ſhall refuſe or neglect to pay his or their Aſſeſment, and convey away his or their Goods or other perſonal Eſtate, whereby the ſum of Money Aſſeſſed on him cannot be Leavied as is be<g ref="char:EOLhyphen"/>fore expreſſed, that then the aforeſaid Commiſſioners or any two or more of them, are hereby authorized to im<g ref="char:EOLhyphen"/>priſon the ſaid perſons and ſequeſter the Eſtate of every ſuch perſon to the uſe the Common-wealth; or if any perſon or perſons ſhall conceal his or their goods, or re<g ref="char:EOLhyphen"/>move their Goods or Cattle from one County to the o<g ref="char:EOLhyphen"/>ther, or any part of them, thereby endeavoring to avoid the hearing a due proportion of the aforeſaid Aſſeſment. Vpon the diſcovery thereof, and due proof made before any two or more of the aforeſaid Commiſſioners, it ſhall and may be lawful for them to ſequeſter ſuch Goods or Cattle, and to cauſe the ſame to be Canted or Sold <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſome Publick Market, paying one Moyety of what Money ſhall be raiſed by Sale of the ſaid Goods or Cattle into the hands of the reſpective Receivers aba<g ref="char:EOLhyphen"/>ting the ſame out of the Applotment of the Monthly Seſs of the Barony in which the ſaid Goods or Cattle
+<pb n="19" facs="tcp:30268:11"/>ought to have paid: and the other Moyety to pay or cauſe to be paid unto the Owners of ſuch Goods or Cattle; and the ſaid Commiſſioners of the Aſſeſment in the reſpective Counties, are to cauſe due and Pub<g ref="char:EOLhyphen"/>lick Notice hereof to be given.</p>
+            <p>And it is alſo further Ordered, That if it ſhall ſo hap<g ref="char:EOLhyphen"/>pen that any of the aforeſaid Tax be laid on any inſol<g ref="char:EOLhyphen"/>vent perſon that is not able to pay the ſame, ſo much as ſhall be ſo charged ſhall be re-Applotted by the ſaid Com<g ref="char:EOLhyphen"/>miſſioners equally on the Barony wherein ſuch inſol<g ref="char:EOLhyphen"/>vency ſhall happen.</p>
+            <p>And it is further hereby Ordered, That if any que<g ref="char:EOLhyphen"/>ſtion or difference ſhall ariſe for or concerning the afore<g ref="char:EOLhyphen"/>ſaid Aſſeſments that the aforeſaid Commiſſioners are hereby authorized to hear and determin the ſame, and to do thereinto the relief of the party grieved, according to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and Iuſtice. And if any difference ſhall be be<g ref="char:EOLhyphen"/>tween any of the ſaid Commiſſioners concerning the ex<g ref="char:EOLhyphen"/>ecution of the Truſt to them committed, they are (in ſuch caſes) to have recourſe to the aforeſaid Commiſ<g ref="char:EOLhyphen"/>ſioners General for the Publick Revenue, who are hereby authorized and impowered to hear and determin the ſame, or to Report the ſtate thereof unto Vs.</p>
+            <p>And whereas ſeveral complaints have been made a<g ref="char:EOLhyphen"/>gainſt ſeveral Commiſſioners of Applotment, alledging that they have raiſed other and greater ſums of Money (under pretence of the power and Truſt repoſed in them by the late Commiſſioners of the Revenue) than of right they ought to have raiſed, or have been paid into the Publick Treaſury, to the great wrong and oppreſſion of the Countrey: It is therefore further Ordered and Declared, That the ſaid Commiſſioners for Aſſeſment or any three or more of them ſhall have Power and Au<g ref="char:EOLhyphen"/>thority to examin upon Oath all ſuch matters as ſhall be objected againſt the ſaid Commiſſioners of Applot<g ref="char:EOLhyphen"/>ment, and upon full hearing of both Parties, if by clear and good proof it ſhall appear, That the ſaid Com<g ref="char:EOLhyphen"/>miſſioners of Applotment have (under pretence of their Authority aforeſaid) raiſed more Moneys, than by In<g ref="char:EOLhyphen"/>ſtructions from the ſaid Commiſſioners of Revenue, they were impowered to raiſe, they are to cauſe ſuch Commiſſioners forthwith to pay all ſuch Money (as they or any of them have ſo raiſed and not paid into the
+<pb n="20" facs="tcp:30268:12"/>Treaſury) into the hand of the reſpective Receivers, as <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the preſent three <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the ſame but of the County or Barony out of which ſuch Moneys by the ſaid Commiſſioners of applotment was ſo raiſed; Except the ſaid County or Barony be in Ar<g ref="char:EOLhyphen"/>rear of former Aſſeſments; and in <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Moneys are to be paid and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as ſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> paid to<g ref="char:EOLhyphen"/>wards discharge of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Arrears <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the ſaid Com<g ref="char:EOLhyphen"/>miſſioners for the Aſſeſment are alſo to certify from time to time their proceedings herein paſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Commiſſioners General, that ſuch Offenders may be further proceeded againſt according to the nature of their offence.</p>
+            <p>And to the end all Arrears of former Aſſeſments may be timely paid into the hand of the aforeſaid reſpe<g ref="char:EOLhyphen"/>ctive Receivers, in order to the ſupply of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and other publick Charges: The ſaid reſpective Recei<g ref="char:EOLhyphen"/>vers are hereby <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to ſummon all Commiſſioners of Applotment, or other perſons formerly entruſted or employed by the Commiſſioners of the Revenue for the Aſſeſing and Leavying the ſaid Aſſeſments, requiring them forthwith to pay into the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all ſuch Arrears, and in default thereof, the ſaid reſpective Receivers are to aſſign thoſe Arrears for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pay of the Forces, accord<g ref="char:EOLhyphen"/>ing to ſuch <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> they ſhall, for that purpoſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from Our <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, or the aforeſaid Commiſſion<g ref="char:EOLhyphen"/>ers General for the Publick Revenue.</p>
+            <p>And it is further hereby Ordered and Declared, That no other ſum or ſums of Money, be by any per<g ref="char:EOLhyphen"/>ſon or perſons whatſoever charge<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any Countie or place in <hi>Ireland,</hi> in conſideration of any Publick <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or Aſſeſment whatſoever, either for <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ree-Quarter of any ſort, Ca<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>age, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>-Money, Salt, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, Small <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, Bedding, Bed Cloaths, or other Charge whatſoever. And if any Officer or Souldier ſhall offend herein, the perſon or perſons <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are to make their <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the Of<g ref="char:EOLhyphen"/>ficer <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> fo the reſpective Precincts, or to the Authority-General <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Army or his <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Quarters; who are <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to proceed againſt ſuch Offenders according to Martial Law<g ref="char:punc">▪</g> Provided nevertheleſs, That no Rents for Monies, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, Tenements and Hereditaments, or Reve<g ref="char:EOLhyphen"/>nues
+<pb n="21" facs="tcp:30268:12"/>belonging to Colledges, Hoſpitals, Alms-houſes or given to any charitable or pious uſe be charged towards the payment of the ſeveral ſums and pro<g ref="char:EOLhyphen"/>portions aforeſaid, ſave onely for ſo much as the ſaid Mannors, Lands, Tenements, and Hereditaments, are, and ſhall be reſpectively worth by the year, over and above the Rent and Revenue thereof, reſpectively due and payable to the ſaid Colledges, Hoſpitals, Alms-Houſes, Charitable and pious uſe, and every of them reſpectively.</p>
+            <p>Provided alſo, And it is hereby further Ordered and Declared, That no waſte Houſes, or Lands unplanted, unimployed or unmanured, ſhall, during their being un<g ref="char:EOLhyphen"/>planted, unimployed, or unmanured, be charged to pay any part or proportion of the ſaid Monthly Tax and Aſſeſment.</p>
+            <p>Provided further, That where any perſon hath taken any Eſtate at a certain yearly Rent, to be paid for the ſame in liew of Aſſeſments, and other Publick Taxes, and the ſaid Grant to ſuch perſons continueth in being, purſuant to ſuch Orders, Rules, and Inſtructions as have been given by the late Commiſſioners of the Com<g ref="char:EOLhyphen"/>monwealth for the ſetting and letting of Lands, ſuch perſon or perſons are to enjoy the benefit of his or their ſaid Grant, and the proportions of Aſſeſments, falling of right upon ſuch Lands ſo lett, is to be ſupplied out of the Rents of the ſaid Lands; and the Baronie or place in which the ſaid Lands do lie, is to be freed and dis<g ref="char:EOLhyphen"/>charged from ſo much of the ſaid Aſſeſments, as ſhall be ſupplyed or discharged out of the Rents of the Lands aforeſaid, and the remainder of Rent due to the Com<g ref="char:EOLhyphen"/>mon-wealth, above the ſaid Conte<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tion, is to be paid into the hands of the reſpective Receivers afore<g ref="char:EOLhyphen"/>ſaid.</p>
+            <p>Provided notwithſtanding, That if any perſon or perſons have taken any Leaſe from the Common<g ref="char:EOLhyphen"/>wealth, at a certain yearly Rent, and the Rents reſer<g ref="char:EOLhyphen"/>ved upon the ſame, fall ſhort of the preſent Contribution ſaid upon Lands of equal value in the ſame Baronie, Town-ſhip, Will, or Pariſh by virtue of this Order; all ſuch Lands, are hereby Ordered and Declared, to be liable and ſubject to the payment of Contribution, for the Stock and Tillage upon the ſame, equal in propor<g ref="char:EOLhyphen"/>tion
+<pb n="22" facs="tcp:30268:13"/>to the reſt of the Inhabitants of the Countrey re<g ref="char:EOLhyphen"/>ſpectively according to Iuſtice &amp; equitie: And in ſuch caſe the aforeſaid perſon or perſons, who have taken Land at a certainty as aforeſaid, ſhall be and are hereby dis<g ref="char:EOLhyphen"/>charged from the Rents payable in purſuance of ſuch Contracts made with the Common-wealth as afore<g ref="char:EOLhyphen"/>ſaid, Yet ſo as to have the Benefit of ſuch Lands, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> contribution falling due for the ſame, during the term of their aforeſaid Leaſes, according to the In<g ref="char:EOLhyphen"/>ſtructions given for making ſuch Leaſes.</p>
+            <p>Provided alſo, That none of the Commiſſioners herein nominated, ſhall in any thing relating to their own Eſtates, or the Eſtates of any of their Fathers, Brothers, Tenant or Tenants give their votes there<g ref="char:EOLhyphen"/>in, or ſhall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or apportion the reſpective Sum or Sums of Money, payable for his or their Tax in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hereof.</p>
+            <p>And all Officers, Civil and Military, and all other perſons whatſoever, are hereby ſtrictly required to be aiding and aſſiſting in the due execution of the Power and Truſt hereby granted, as they ſhall be thereunto required.</p>
+            <closer>
+               <dateline>Dated at <hi>Dublin,</hi> 
+                  <date>
+                     <hi>Ianuary</hi> the firſt <hi>1654.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>
+                     <hi>Tho. Herbert,</hi> Clerk of the Council:</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="imprimatur">
+            <p>ORdered by the Lord Deputy and Council, That this Order and Commiſſion for the Aſſeſment, be forthwith Printed and Publiſhed.</p>
+            <closer>
+               <signed>Signed by Order of the ſaid Lord Deputy and Council. <hi>THO. HERBERT, Clerk of the Council.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="order">
+            <head>By the Lord Deputy and Council.</head>
+            <p>ORdered, That the ſeveral perſons hereunder named, be and are hereby added to the Commiſſioners for Aſseſment in the ſeveral Coun<g ref="char:EOLhyphen"/>ties to their names annexed; and are hereby impowered to act as Com<g ref="char:EOLhyphen"/>miſſioners as fully to all intents and purpoſes, as any the Commiſſioners named in an Order and Commiſſion of the 12<hi rend="sup">o</hi> inſtant.</p>
+            <list>
+               <item>
+                  <hi>For the</hi> Kings <hi>County.</hi>] Iohn Eyre. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>For the Barony at</hi> D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>li<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k, <hi>and County of</hi> Meath] Iohn Hetch, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>For the County of</hi> Derry.] Iohn Barret, Alexander Staples, <abbr>
+                     <hi>Eſqs</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>For the County of</hi> Kerry.] Thomas Herbert, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>For the County of</hi> Typerary.] Robert Knight, Matthew Iacob, <hi>Eſquires.</hi>
+               </item>
+               <item>
+                  <hi>For the County of</hi> Waterford] Edward Hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gate, Robert Thorn<g ref="char:EOLhyphen"/>hill, Iohn Ioy<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Iohn Houghton Iohn Pike, <hi>Senior, <hi>Eſquires.</hi>
+                  </hi>
+               </item>
+            </list>
+            <closer>
+               <dateline>Dated at Dublin, <date>Jan. 18<hi rend="sup">o</hi> 1654.</date>
+               </dateline>
+               <signed>
+                  <hi>THOMAS HERBERT,</hi> Clerk of the Council.</signed>
+            </closer>
+            <pb facs="tcp:30268:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
